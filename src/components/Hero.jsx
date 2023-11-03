@@ -132,7 +132,7 @@ const Hero = () =>  {
             <Subtitle> Ramsés Camas</Subtitle> 
           </WhatWeDo> 
           <Desc> 
-            I'm a Artificial Intelligence Engineer focus on develop intelligent systems and solutions.
+            I'm a Artificial Intelligence Engineer focused on develop intelligent systems and solutions.
           </Desc> 
           <Button> Learn More</Button> 
         </Left>  
